@@ -38,7 +38,8 @@ What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth
 What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
 Dashboard : 
-![summary_dashboard](https://github.com/Abhisheksudan96/SProcket_KPMG_Data_Analysis/assets/138653890/1ddd0214-ac59-4439-b918-12489ee7ad86)
+
+![summary_dashboard](https://github.com/Abhisheksudan96/SProcket_KPMG_Data_Analysis/assets/138653890/7eb69984-f775-438b-9c8a-30045efcf08f)
 
 DataSource :
 https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb
